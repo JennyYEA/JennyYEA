@@ -3,12 +3,18 @@
 
 **프로젝트**
 
+
 **1. 미술 경매 데이터 해부**
+
    Language : Python
    Contribution
+
+
 **2. 공시 주가 상관관계 분석**
    Language : SQL, Python
    Contribution
+
+
 **3. ZIGZAG 신규 서비스 런칭 기획**
    Language : SQL, Python
    Contribution
