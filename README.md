@@ -18,6 +18,7 @@
 만약 저에 대해 더 궁금한 점이 있으시다면 😉 <br/>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/Your-fit-Sung-Hwa-270696c4f7b180f6862cd2b452e8765d?v=a92b7f8644ff471caa79b331b739f1cb&source=copy_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](링크주소)
+[![Naver](https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:doubleten12@naver.com)
 
 
 감사합니다.<br/>
