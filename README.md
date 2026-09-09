@@ -4,7 +4,7 @@
 ### **프로젝트** 📝
 
 
-**1. 미술 경매 데이터**<br/>
+**1. 미술 경매 데이터**(https://github.com/JennyYEA/Korean_Art_Auction)<br/>
 
 **2. 공시 주가 상관관계 분석**<br/>
 
